@@ -1,0 +1,15 @@
+Visionnage de la vidéo "Machine Learning Fundamentals A - TensorFlow 2.0 Course :
+
+Lien, vidéo de 15 mn 55 : https://youtu.be/KwL1qTR5MT8
+
+===================================================================================================================
+
+Réponse à la question :
+
+"Laquelle des affirmations suivantes est fausse ?"
+
+====================================================================================================================
+
+Résponse :
+
+"Les réseaux neuronaux sont conçus sur le modèle du fonctionnement du cerveau humain."
